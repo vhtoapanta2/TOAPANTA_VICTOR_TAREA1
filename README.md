@@ -20,11 +20,11 @@ Fecha de Presentación: 12 de noviembre de 2022
 
      OBJETIVOS
 
-     OBJETIVOS GENERALES
+   OBJETIVOS GENERALES
 
 Se conocerá y se pondrá en practica todo lo relacionado con circuitos eléctricos desde su funcionamiento hasta la medición de elementos y circuitos conociendo cada una de sus funciones y el como utilizarlas en el circuito buscando medidas y respuestas a las preguntas planteadas con fórmulas que se encuentran en los libros y se vieron en clases.
 
-     OBJETVOS ESPECIFICOS 
+   OBJETVOS ESPECIFICOS 
 
 •	Utilizar, identificar, razonar acerca de las unidades de medida y sus características principales que los identifica 
 
