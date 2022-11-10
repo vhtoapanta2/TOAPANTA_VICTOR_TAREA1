@@ -13,3 +13,18 @@ Nombre del Docente: Ing. Darwin Omar Alulema Flores
 
 Fecha de Presentación: 12 de noviembre de 2022
 
+OBJETIVOS
+
+OBJETIVOS GENERALES
+
+Se conocerá y se pondrá en practica todo lo relacionado con circuitos eléctricos desde su funcionamiento hasta la medición de elementos y circuitos conociendo cada una de sus funciones y el como utilizarlas en el circuito buscando medidas y respuestas a las preguntas planteadas con fórmulas que se encuentran en los libros y se vieron en clases.
+
+OBJETVOS ESPECIFICOS 
+
+•	Utilizar, identificar, razonar acerca de las unidades de medida y sus características principales que los identifica 
+•	Conocer e identificar formulas y procesos para resolver problemas 
+•	Analizar, diseñar, implementar e interconectar circuitos electrónicos básicos.
+•	Identificar, modelar, caracterizar y ponerlos en práctica.
+
+MARCO TEORICO
+
